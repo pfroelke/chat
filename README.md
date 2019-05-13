@@ -20,3 +20,9 @@ Commands:
 		Save the latest message to clipboard.
 	"-load":
 		Push the string saved in clipboard as message.
+		
+Learned:
+	- Using Winsock to communicate between PCs via internet connection.
+	- Communication between processes via Windows Clipboard.
+	- Creating threads.
+	- Multithreaded tasks.
