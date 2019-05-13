@@ -1,7 +1,0 @@
-﻿  main.cpp
-c:\users\papi\onedrive\workspace\przetwarzanie rozproszone\chat\chat\main.cpp(250): warning C4101: 'end': unreferenced local variable
-c:\users\papi\onedrive\workspace\przetwarzanie rozproszone\chat\chat\main.cpp(247): warning C4101: 'threads': unreferenced local variable
-c:\users\papi\onedrive\workspace\przetwarzanie rozproszone\chat\chat\main.cpp(250): warning C4101: 'start': unreferenced local variable
-c:\users\papi\onedrive\workspace\przetwarzanie rozproszone\chat\chat\main.cpp(248): warning C4101: 'id': unreferenced local variable
-c:\users\papi\onedrive\workspace\przetwarzanie rozproszone\chat\chat\main.cpp(251): warning C4101: 'time_taken': unreferenced local variable
-LINK : fatal error LNK1168: cannot open C:\Users\papi\OneDrive\Workspace\Przetwarzanie Rozproszone\Chat\Debug\Chat.exe for writing
