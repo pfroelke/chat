@@ -2,7 +2,7 @@
   Simple chat application written in C++, using Windows Sockets.
   Run in MS Visual Studio 2017.
   
-Commands:
+#### Commands:
 
 	"-login":
 		Initate the login process. Next input will be saved as the username.
@@ -21,8 +21,8 @@ Commands:
 	"-load":
 		Push the string saved in clipboard as message.
 		
-Learned:
-	- Using Winsock to communicate between PCs via internet connection.
-	- Communication between processes via Windows Clipboard.
-	- Creating threads.
-	- Multithreaded tasks.
+#### Learned:
+ - Using Winsock to communicate between PCs via internet connection.
+ - Communication between processes via Windows Clipboard.
+ - Creating threads.
+ - Multithreaded tasks.
