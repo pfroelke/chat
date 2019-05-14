@@ -1,4 +1,5 @@
 # chat
+###### Copyright © 2019 P. Froelke
   Simple chat application written in C++, using Windows Sockets.
   Run in MS Visual Studio 2017.
   
